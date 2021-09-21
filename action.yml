@@ -1,7 +1,7 @@
 ---
-name: 'Super-Linter'
-author: 'GitHub'
-description: 'It is a simple combination of various linters, written in bash, to help validate your source code.'
+name: 'Debug Super-Linter'
+author: 'dyingAngel'
+description: 'Forked for Debuging.'
 runs:
   using: 'docker'
   image: 'docker://ghcr.io/github/super-linter:v4.7.3'
